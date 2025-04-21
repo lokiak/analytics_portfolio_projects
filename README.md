@@ -4,4 +4,3 @@ I've built this repo to host my portfolio projects related to data analysis. You
 * Real estate/tax levys
 * Other cool sources of data I am exploring!
 
-## Hello
